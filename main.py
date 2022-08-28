@@ -244,7 +244,7 @@ def send_message(to_user, access_token, region_name, weather, temp, wind_dir, no
             },
             "proposal": {
                 "value": proposal,
-                "color": "#000000"
+               
             },
             "chp": {
                 "value": chp,
